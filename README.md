@@ -8,4 +8,4 @@ Second description.
 
 ### Subheading
 
-Third description.
+You need to open index.html file.
